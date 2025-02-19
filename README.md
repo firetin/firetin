@@ -1,7 +1,7 @@
 <!-- WELCOME TO THE 🔥FIRE🔥 ZONE -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
-  Hey there! I'm <strong>Firetin</strong> 🚀
+  Hey there! I'm <strong>Firetin</strong> 🧔‍♂️
 </h1>
 
 <p align="center">
