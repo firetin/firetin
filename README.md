@@ -1,7 +1,7 @@
 <!-- WELCOME TO THE 🔥FIRE🔥 ZONE -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
-  Hey there! I'm <strong>Firetin</strong> 🧔‍♂️
+  Hey there! I'm <strong>Firetin</strong> 🔥
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ## 🚀 About Me  
 ```js
 const firetin = {
-  title: "Software Engineer 🔥",
+  title: "Software Engineer 👨‍💻",
   focus: ["Web Development", "AI-Powered Applications", "Innovation"],
   code: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js"],
   tools: ["Cursor", "Vercel", "Supabase", "GitHub", "Linux Terminal"],
