@@ -39,6 +39,8 @@ const firetin = {
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -56,6 +58,8 @@ const firetin = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Putty](https://img.shields.io/badge/Putty-5E7B8D?style=for-the-badge&logo=putty&logoColor=white)
+![Devicon](https://img.shields.io/badge/Devicon-000000?style=for-the-badge&logo=devicon&logoColor=white)
 
 ### Front-End Technologies:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
