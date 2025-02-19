@@ -9,7 +9,7 @@
 </p>
 
 ## 🚀 About Me  
-(```js
+```js
 const firetin = {
   title: "Software Engineer 🔥",
   focus: ["Web Development", "AI-Powered Applications", "Innovation"],
@@ -18,6 +18,6 @@ const firetin = {
   passion: "Creating 🔥 projects that break boundaries",
   favMaxim: "It’s not what you know, but how fast you can learn."
 };
-)
+(```)
 
 test
