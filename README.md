@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=755&lines=%F0%9F%92%BB+Full-Stack+Web+Developer+%F0%9F%92%BB;%F0%9F%A4%96+AI-Assisted+Coding+Sorcerer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;%E2%9A%A1+Rapid+Development+%F0%9F%9A%80;%F0%9F%94%8D+Discover+%E2%86%92+%F0%9F%9B%A0%EF%B8%8F+Build+%E2%86%92+%F0%9F%9A%A2+Ship+%E2%86%92++%F0%9F%94%84Iterate+%E2%86%92+%F0%9F%94%81+Repeat)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=755&lines=%F0%9F%92%BB+Full-Stack+Web+Developer+%F0%9F%92%BB;%F0%9F%A4%96+AI-Assisted+Coding+Sorcerer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;%E2%9A%A1+Rapid+Development+%F0%9F%9A%80;%F0%9F%94%8D+Discover+%E2%86%92+%F0%9F%9B%A0%EF%B8%8F+Build+%E2%86%92+%F0%9F%9A%A2+Ship+%E2%86%92++%F0%9F%94%84Iterate+%E2%86%92+%F0%9F%94%81+Repeat" alt="Typing SVG" /></a>
 </p>
 
 ## 🚀 About Me  
